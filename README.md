@@ -54,7 +54,6 @@ I'm a **Data / AI / Software Enthusiast** who enjoys building practical solution
 * API integrations
 * Productivity‑focused use cases
 
-*(Add links to the actual repositories here)*
 
 ---
 
@@ -67,9 +66,8 @@ I'm a **Data / AI / Software Enthusiast** who enjoys building practical solution
 
 ## 📫 Contact & Links
 
-* 💼 LinkedIn: *(add your link)*
-* 🌐 Portfolio: *(optional)*
-* 📧 Email: *(optional)*
+* 💼 LinkedIn: *[(add your link)](https://www.linkedin.com/in/jasman-jasman-74ab21186/)*
+* 📧 Email: *jasman0603@gmail.com*
 
 ---
 
