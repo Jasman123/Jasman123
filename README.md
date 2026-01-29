@@ -66,7 +66,7 @@ I'm a **Data / AI / Software Enthusiast** who enjoys building practical solution
 
 ## 📫 Contact & Links
 
-* 💼 LinkedIn: *[(add your link)](https://www.linkedin.com/in/jasman-jasman-74ab21186/)*
+* 💼 LinkedIn: *[(https://www.linkedin.com/in/jasman-jasman-74ab21186)]*
 * 📧 Email: *jasman0603@gmail.com*
 
 ---
