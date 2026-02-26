@@ -1,197 +1,103 @@
-# Hi, I'm Jasman 👋
+# Hi, I'm Jasman 👋  
 
-I'm a **Data / AI / Software Enthusiast** who enjoys building practical solutions using **Python, data science, and automation**. I’m especially interested in **machine learning, analytics, and backend systems** that solve real‑world problems.
+I’m a **Data / AI / Software Enthusiast** with a background in **Python, data science, and automation**, focused on building **practical, end‑to‑end solutions** that solve real business problems.[web:2] I enjoy working at the intersection of **machine learning, analytics, and backend systems**.
 
 ---
 
-## 🚀 About Me
+## 🔎 What I’m Interested In
 
-* 🔍 Interested in **Data Science, Machine Learning, and AI Engineering**
-* 🧠 Comfortable with statistics, data analysis, and model evaluation
-* ⚙️ Enjoy automating workflows and building end‑to‑end projects
-* 🌱 Currently improving skills in **ML pipelines, deployment, and system design**
+- **Data Science & Machine Learning** – modeling, experimentation, and insight generation  
+- **AI Engineering & RAG Systems** – LLM-powered applications grounded in real data  
+- **Backend & Automation** – robust data pipelines, workflow automation, and production-ready apps  
+
+Currently leveling up in **ML pipelines, deployment (Docker, CI), and system design**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-- **Python** (data analysis, machine learning, backend logic)
-- **SQL** (data querying and analysis)
+- **Python** – data analysis, machine learning, automation, backend logic  
+- **SQL** – querying, aggregations, and analytical reporting  
 
 ### Data Science & Machine Learning
-- **Pandas, NumPy** – data cleaning, transformation, EDA  
-- **Scikit-learn** – regression & classification models  
-- **XGBoost** – tree-based models for tabular data  
-- Feature engineering & preprocessing  
-- Model evaluation (accuracy, RMSE, classification metrics)  
-- Statistical analysis (t-test, ANOVA)
+- **Pandas, NumPy** – data cleaning, transformation, and EDA  
+- **Scikit-learn, XGBoost** – regression and classification on tabular data  
+- Feature engineering and preprocessing (encoding, scaling, handling missing values)  
+- Model evaluation (accuracy, precision/recall, F1, RMSE, etc.)  
+- Statistical analysis (hypothesis testing, t-test, ANOVA)
 
 ### AI & LLM Applications
-- Retrieval-Augmented Generation (RAG)  
-- Vector embeddings & semantic search  
-- LLM integration for document Q&A systems  
+- Retrieval-Augmented Generation (**RAG**)  
+- Vector embeddings and semantic search  
+- LLM integration for **document Q&A** and knowledge assistants  
 
-### Backend, Visualization & Tools
-- **Streamlit** – interactive dashboards & ML apps  
-- **PostgreSQL** – structured data storage  
-- **Git & GitHub** – version control & collaboration  
-- **Docker** – containerized deployment  
-- **n8n** – workflow automation pipelines
-- **Flask/FastApi** – back-end framework
-
-
----
-
-## 📌 Featured Projects
-
-# AI_EPIC — RAG PDF Chatbot
-
-## Overview
-
-AI_EPIC is a **Retrieval-Augmented Generation (RAG)** application that allows users to ask questions about PDF documents and receive **accurate, context-aware answers**. The system combines document embeddings, vector search, and large language models (LLMs) in a simple Streamlit interface.
-
-This project demonstrates how to build an **end-to-end LLM application**, from document ingestion to user-facing AI interaction.
+### Backend, Visualization & Tooling
+- **Streamlit** – interactive dashboards and ML applications  
+- **Flask / FastAPI** – lightweight APIs and backend services  
+- **PostgreSQL** – structured data storage and querying  
+- **Docker** – containerized development and deployment  
+- **Git & GitHub** – version control and collaboration  
+- **n8n** – workflow automation and orchestration  
 
 ---
 
-## Features
+## 📂 Selected Projects
 
-* 📄 Upload and process PDF documents
-* 🔍 Semantic search using vector embeddings
-* 🤖 LLM-powered question answering
-* 💬 Conversational interface
-* 🔊 Optional Text-to-Speech (TTS) output
-* 🚀 Streamlit-based UI for fast prototyping
+### AI_EPIC — RAG PDF Chatbot
 
----
+**AI_EPIC** is a **Retrieval-Augmented Generation (RAG)** application that lets users upload PDF documents and ask natural-language questions, returning **context-aware answers grounded in the source files**.[web:2] It showcases an end‑to‑end LLM workflow from ingestion to user interaction.
 
-## Architecture (High Level)
+- Upload and process PDF documents  
+- Chunking and **vector embeddings** stored in a vector database  
+- Semantic search to retrieve relevant context  
+- LLM-powered Q&A with a conversational interface  
+- Optional **Text-to-Speech (TTS)** output  
+- Built with a **Streamlit** front end for rapid prototyping  
 
-1. PDF documents are loaded and split into chunks
-2. Text chunks are converted into embeddings
-3. Embeddings are stored in a vector database
-4. User queries retrieve relevant context
-5. LLM generates answers grounded in the retrieved context
+**Demonstrates:** practical RAG pipelines, LLM integration with real documents, and combining ML logic, backend components, and UI.
 
 ---
 
+### Dashboard_COB — Interactive Data Dashboard
 
-## Use Cases
+**Dashboard_COB** (Streamlit_project_dashboard) is an **interactive analytics dashboard** built with Python and Streamlit for exploring and visualizing datasets in a clear, structured way.[web:1] The repository emphasizes **modularity and deployment readiness**.
 
-* Chat with internal documents
-* Knowledge base assistant
-* Proof-of-concept RAG systems
+- Interactive charts and filters for data exploration  
+- Backend-driven data processing and transformation  
+- Clean, modular project structure suitable for scaling  
+- **Docker** support for containerized deployment  
+- CI-ready layout for future automation and testing  
 
----
-
-## What This Project Demonstrates
-
-* Practical implementation of RAG pipelines
-* LLM integration with real-world documents
-* Combining ML, backend logic, and UI
+**Demonstrates:** production-minded dashboard design, backend-first thinking for data apps, and deployment-friendly project organization.
 
 ---
 
-# Dashboard_COB — Interactive Data Dashboard
+### Data_Science_Vision — Data Science Practice Hub
 
-## Overview
+**Data_Science_Vision** is a **data science practice repository** where I experiment with **EDA, preprocessing, and machine learning techniques** on different datasets.[web:2] It reflects my approach to structuring notebooks, documenting insights, and iterating on models.
 
-Dashboard_COB is a **Python-based interactive data dashboard** designed to visualize and explore datasets through clean charts and structured navigation. The project focuses on **clarity, modular design, and deployment readiness**.
+- Exploratory data analysis on various datasets  
+- Data cleaning, feature engineering, and preparation for modeling  
+- Implementation of classical ML algorithms for prediction and inference  
+- Focus on code readability, reusability, and clear narrative in analysis  
 
-It is suitable for analytics reporting, internal tools, and data-driven decision support.
-
----
-
-## Features
-
-* 📊 Interactive data visualization
-* 🧠 Backend-driven data processing
-* 🧩 Modular and maintainable project structure
-* 🐳 Docker support for deployment
-* ✅ CI-ready repository structure
+**Demonstrates:** hands-on data science skills, from raw data exploration to model building and interpretation.
 
 ---
 
-## Use Cases
+## 📊 GitHub Activity
 
-* Business dashboards
-* Analytics reporting tools
-* Internal monitoring applications
-
----
-
-## What This Project Demonstrates
-
-* Building production-style dashboards
-* Backend-oriented thinking for data apps
-* Deployment-friendly Python projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasman123&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasman123&layout=compact)
 
 ---
 
-# Life-Expectancy-Analysis — Machine Learning Regression
+## 📫 Get in Touch
 
-## Overview
-
-Life-Expectancy-Analysis is a **data science and machine learning project** that explores global health and socioeconomic factors affecting **life expectancy** and builds predictive regression models.
-
-The project emphasizes **data understanding, feature engineering, and insight-driven modeling**.
+- 💼 LinkedIn: [https://www.linkedin.com/in/jasman-jasman-74ab21186](https://www.linkedin.com/in/jasman-jasman-74ab21186) [web:2]  
+- 📧 Email: **jasman0603@gmail.com**
 
 ---
 
-## Dataset
-
-* Global health and socioeconomic indicators
-* Features include income, education, health metrics, and demographics
-
----
-
-## Key Steps
-
-* 📈 Exploratory Data Analysis (EDA)
-* 🧪 Data cleaning and preprocessing
-* 🧠 Feature engineering
-* 📊 Regression modeling
-* 🎯 Model evaluation and interpretation
-
----
-
-## Models Used
-
-* Linear Regression
-* Tree-based regression models
-* Model comparison and evaluation
-
----
-
-## Results & Insights
-
-* Identification of key factors influencing life expectancy
-* Clear comparison of model performance
-* Actionable insights supported by data
-
----
-
-## What This Project Demonstrates
-
-* End-to-end data science workflow
-* Strong EDA and preprocessing skills
-* Translating real-world problems into ML solutions
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jasman123\&show_icons=true\&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasman123\&layout=compact)
-
----
-
-## 📫 Contact & Links
-
-* 💼 LinkedIn: *[(https://www.linkedin.com/in/jasman-jasman-74ab21186)]*
-* 📧 Email: *jasman0603@gmail.com*
-
----
-
-⭐ *Open to collaboration, learning, and interesting projects!*
+⭐ **Open to collaboration, learning opportunities, and building real-world data & AI projects.**
