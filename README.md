@@ -1,115 +1,71 @@
 <div align="center">
 
 # Jasman
-### AI / Machine Learning Engineer
+### AI Engineer · LLMs, RAG & Multi-Agent Systems
 
-*Building intelligent, end-to-end systems at the intersection of ML, data, and backend engineering*
+*Turning research prototypes into reliable, production AI systems — with a rare foundation in hardware R&D and manufacturing automation.*
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E3BDE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jasman123.github.io/jasman-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasman-jasman-74ab21186)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jasman0603@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jasman123)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I'm an **AI/ML Engineer** with a strong foundation in Python, data science, and automation — focused on designing and shipping **production-ready, end-to-end intelligent systems**. My work spans the full ML lifecycle: from raw data ingestion and feature engineering to model deployment and LLM-powered applications.
+AI Engineer with hands-on experience across the full ML lifecycle — LLM applications, retrieval-augmented generation, multi-agent systems, and the FastAPI/Postgres backends that ship them. Before AI, I spent years in hardware R&D and manufacturing process engineering, which shows up now as a bias for measurable, production-ready systems over demos.
 
-Currently deepening expertise in **ML pipelines, containerized deployment (Docker/CI), RAG architectures, and scalable system design**.
-
----
-
-## Core Competencies
-
-```
-Machine Learning & Modeling    │  LLM Engineering & RAG Systems
-Data Engineering & Pipelines   │  Backend APIs & Automation
-Statistical Analysis & EDA     │  Deployment & MLOps Foundations
-```
+**Currently:** AI Engineer at Opus Solutions Limited (Hong Kong), building an air-gapped, on-premise RAG platform for document intelligence — LangGraph + Qdrant hybrid retrieval (dense + BM25 + RRF), async FastAPI/PostgreSQL/Celery, and LLM inference (vLLM, llama.cpp) sized for constrained, sovereign deployments.
 
 ---
 
 ## Tech Stack
 
-**Languages**
+**LLM & Agents**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-00897B?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Retrieval & Data**
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Hybrid Search](https://img.shields.io/badge/Hybrid_(BM25%2BRRF)-333333?style=flat-square)
+
+**Backend & Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **ML & Data Science**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189F00?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**AI & LLM**
-
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
-![Vector Search](https://img.shields.io/badge/Vector_Search-FF6F00?style=flat-square)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-00897B?style=flat-square)
-
-**Backend & Infrastructure**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
 ## Featured Projects
 
-### 🤖 AI_EPIC — RAG PDF Chatbot
-> *End-to-end Retrieval-Augmented Generation application for document Q&A*
+### [multi-doc-rag](https://github.com/Jasman123/multi-doc-rag)
+Multi-document RAG API — upload PDFs, ask questions across them, get answers grounded in cited source chunks.
+- **Architecture:** FastAPI on a ports & adapters (hexagonal) core — swapping LLM/embedding providers means writing an adapter, not touching business logic
+- **Retrieval:** ChromaDB (vector) + BM25 (keyword) hybrid search fused with RRF, orchestrated as a corrective RAG pipeline in LangGraph (grades results, rewrites the query, and retries before falling back)
+- **Auth:** JWT access/refresh tokens, Postgres-backed user store
 
-A production-minded RAG pipeline that enables users to upload PDF documents and query them with natural language — returning **context-grounded, LLM-generated answers**.
+### [Fastapi-repo-project](https://github.com/Jasman123/Fastapi-repo-project)
+A monorepo of LangGraph agent projects:
+- **Autonomous Research Agent** — plans, searches the web, and writes structured research reports end to end
+- **[Support Agent with RAG](https://github.com/Jasman123/Fastapi-repo-project/tree/feat/support-agent)** — customer-support assistant grounded in a knowledge base, hybrid retrieval, streaming responses
+- **Lead-Generation Agent** — headless-browser lead/job discovery synced to Google Sheets
 
-| Component | Details |
-|-----------|---------|
-| **Ingestion** | PDF upload, chunking, and preprocessing |
-| **Retrieval** | Vector embeddings + semantic search over a vector database |
-| **Generation** | LLM-powered Q&A with conversational context |
-| **Interface** | Streamlit frontend with optional Text-to-Speech output |
-
-**Key Takeaway:** Demonstrates a complete, real-world RAG architecture — from document ingestion to LLM response generation — with practical UX considerations.
-
----
-
-### 📊 Dashboard_COB — Interactive Analytics Dashboard
-> *Modular, deployment-ready data dashboard built for real-world scalability*
-
-A Streamlit-based analytics platform for interactive data exploration, built with a **backend-first, deployment-ready architecture**.
-
-| Component | Details |
-|-----------|---------|
-| **Visualization** | Interactive charts, filters, and drill-down views |
-| **Processing** | Backend-driven data transformation and aggregation |
-| **Structure** | Modular, scalable codebase designed for maintainability |
-| **Deployment** | Docker-containerized with CI-ready project layout |
-
-**Key Takeaway:** Demonstrates production-minded thinking beyond prototyping — modularity, clean architecture, and deployment readiness.
-
----
-
-### 🔬 Data_Science_Vision — ML Practice & Experimentation Hub
-> *Structured repository for applied data science experimentation*
-
-A hands-on practice hub covering **EDA, preprocessing, and classical ML** across diverse datasets — emphasizing reproducibility and clear analytical narrative.
-
-| Focus Area | Details |
-|------------|---------|
-| **EDA** | Exploratory analysis, visualizations, and data profiling |
-| **Feature Engineering** | Encoding, scaling, missing value handling |
-| **Modeling** | Regression, classification, and model evaluation |
-| **Standards** | Readable, reusable notebooks with documented reasoning |
-
-**Key Takeaway:** Reflects rigorous, structured thinking from raw data through model interpretation.
+### [Portfolio & case studies](https://jasman123.github.io/jasman-portfolio/)
+Full write-ups of client and freelance work — including a 60+ country AI-agent sourcing pipeline for Startup World Cup, and a churn model built for a segmented SaaS customer base.
 
 ---
 
@@ -126,9 +82,8 @@ A hands-on practice hub covering **EDA, preprocessing, and classical ML** across
 
 ## Let's Connect
 
-I'm open to **collaboration, freelance work, and full-time opportunities** in AI/ML Engineering, Data Science, and backend systems.
+Open to AI/ML engineering roles and freelance collaboration — RAG systems, LLM applications, and production backends.
 
+- 🌐 **Portfolio:** [jasman123.github.io/jasman-portfolio](https://jasman123.github.io/jasman-portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/jasman-jasman-74ab21186](https://www.linkedin.com/in/jasman-jasman-74ab21186)
 - 📧 **Email:** jasman0603@gmail.com
-
-> *If you're working on something at the intersection of data, ML, and real-world applications — let's talk.*
